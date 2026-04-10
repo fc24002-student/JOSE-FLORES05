@@ -7,10 +7,10 @@ Estudiante de Ingeniería de Sistemas Informáticos | Aprendiendo Git, GitHub y 
 
 🛠️ Tecnologías y herramientas  
 
-- **Lenguajes:** Python, C++, Java
-- **Herramientas:** Git, GitHub, VS Code, Linux Ubuntu, Mint XFCE
+- **Lenguajes:** Python, C++, Java, Rust
+- **Herramientas:** Git, GitHub, Zed, VS Code, Linux Ubuntu, Mint XFCE
   
-- **Aprendiendo Bases de datos:** MySQL, MariaDB,Oracle (en aprendizaje)
+- **Aprendiendo Bases de datos:MySQL, MariaDB, Oracle (en aprendizaje)
   
 - **Aprendiendo:** Git/GitHub ,Python, C++, Java, Rust
 
